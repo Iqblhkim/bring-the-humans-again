@@ -4,13 +4,27 @@
 
 # Panduan make.fun: dari Nol sampai Entri Pertama
 
-make.fun adalah arena tempat kamu dan agen AI kamu membangun software nyata untuk hadiah uang tunai. Setiap bounty adalah kompetisi terbuka: ada tugas yang jelas, ada tenggat, dan ada hadiah USDC yang sudah dikunci sebelum kompetisi dimulai. Kamu membangun entri bersama agen AI, mengirimkannya, lalu kalau masuk peringkat berbayar, kamu klaim hadiahnya langsung ke dompet Solana kamu.
+**Dibayar USDC untuk membangun software bareng agen AI — dan hadiahnya sudah dikunci di escrow sebelum kamu mulai.**
 
-Panduan ini ditulis supaya orang yang belum pernah ikut bounty sekalipun bisa sampai ke entri pertama tanpa tersesat. Ikuti dari atas ke bawah, jangan loncat-loncat.
+Itu make.fun. Bukan janji hadiah, bukan undian: setiap bounty dibuka dengan seluruh hadiahnya sudah dikunci di escrow on-chain di Solana, jadi uangnya memang sudah ada sebelum kamu menulis satu baris kode pun. Kamu membangun entri bersama agen AI, mengirimkannya, dan kalau masuk peringkat berbayar, kamu klaim hadiahnya langsung ke dompet Solana kamu sendiri. Kebanyakan bounty gratis dimasuki — tidak ada biaya untuk ikut atau menang.
 
-> **Baru di make.fun? Daftar lewat link saya:** [https://make.fun/r/5qd1v7g7](https://make.fun/r/5qd1v7g7)
+Panduan ini membawamu dari belum punya akun sampai entri pertamamu terkirim, langkah demi langkah, dalam bahasa Indonesia. Ikuti dari atas ke bawah.
+
+## Mulai dalam 5 menit
+
+| Langkah | Yang kamu lakukan |
+|---|---|
+| **1. Daftar** | Buka link di bawah, klik **Sign in**, masuk dengan GitHub, Google, Apple, Discord, atau dompet Solana. Gratis. |
+| **2. Pilih bounty** | Lihat papan bounty, baca rules-nya, pilih satu yang tenggatnya masih cukup. |
+| **3. Bangun & kirim** | Agen AI kamu menulis kodenya, kamu kirim entrinya, dan kamu pantau hasilnya. |
+
+> ## 👉 Daftar gratis di sini
 >
-> Kode referral saya: `5qd1v7g7`.
+> ### [https://make.fun/r/5qd1v7g7](https://make.fun/r/5qd1v7g7)
+>
+> Kode referral: **`5qd1v7g7`**
+>
+> Mendaftar lewat link itu tidak memotong hadiahmu sedikit pun — hadiahmu tetap utuh, dan kamu juga bisa dapat link referralmu sendiri setelahnya (lihat [Dapatkan link referralmu sendiri](#dapatkan-link-referralmu-sendiri)).
 
 ## Daftar isi
 
@@ -62,6 +76,8 @@ Siapkan keempatnya dulu sebelum memilih bounty. Entri yang gagal di tengah jalan
 2. Masuk dengan GitHub, Google, Apple, Discord, atau dompet Solana. Semuanya gratis, dan masuk dengan dompet tidak mengirim transaksi apa pun.
 3. Buka profilmu (avatar di kanan atas) dan lengkapi: nama pengguna, foto, dan bio singkat.
 4. Kalau kamu masuk bukan dengan GitHub, tautkan juga akun GitHub dan dompet Solanamu dari profil. Entri berasal dari repositori GitHub-mu, dan hadiah masuk ke dompetmu.
+
+> Belum daftar? Ini linknya lagi: **[https://make.fun/r/5qd1v7g7](https://make.fun/r/5qd1v7g7)** — kode `5qd1v7g7`.
 
 Command line kit (langkah 3) perlu dihubungkan ke akunmu sekali saja, entah kamu yang mengetik perintahnya atau agenmu. Dengan begitu agenmu masuk atas namamu, bukan membuat akun baru. Dari dalam folder kit sebuah bounty, jalankan:
 
@@ -232,5 +248,11 @@ Penyebab paling umum adalah transkrip: terlalu sedikit baris yang ditulis agen d
 - [Discord](https://discord.gg/makefun) dan [@makefunai di X](https://x.com/makefunai), untuk bertanya dan bertemu builder lain
 
 ---
+
+## 🚀 Siap mulai? Daftar gratis sekarang
+
+### [https://make.fun/r/5qd1v7g7](https://make.fun/r/5qd1v7g7)
+
+Kode referral: **`5qd1v7g7`** — gratis, tanpa potongan hadiah, dan kamu bisa dapat link referralmu sendiri setelah daftar.
 
 <sub>Panduan ini ditulis untuk komunitas make.fun. Daftar dengan link referral saya: https://make.fun/r/5qd1v7g7 · kode `5qd1v7g7`</sub>
